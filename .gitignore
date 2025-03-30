@@ -1,0 +1,13 @@
+# Ignore environment files
+.env
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore all Jupyter Notebook files
+*.ipynb
+
+# Keep specific Jupyter Notebook files
+!comparitive_analysis.ipynb
+!revenue_analysis.ipynb
+
